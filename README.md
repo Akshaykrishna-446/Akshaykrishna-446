@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Krishna</h1>
 <h3 align="center">A dedicated Python Django developer from India.</h3>
 
-<img align="right" alt="Coding" width="600" src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
+<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykrishna-446&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykrishna-446" /> </p>
 
